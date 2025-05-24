@@ -30,9 +30,9 @@ This PowerShell script automates the process of:
    ```powershell
    .\Generate-WAC-Certificate.ps1
 3. Follow the prompts:
-    Enter subject info and SANs
-    Copy and paste the CSR into your public CA (e.g., GoDaddy)
-    Download the .cer file after signing
-    Input the path to the .cer file when prompted
-    The script will install and bind the cert to WAC
+    - Enter subject info and SANs
+    - Copy and paste the CSR into your public CA (e.g., GoDaddy)
+    - Download the .cer file after signing
+    - Input the path to the .cer file when prompted
+    - The script will install and bind the cert to WAC
 
